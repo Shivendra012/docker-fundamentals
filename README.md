@@ -11,5 +11,5 @@
 | Application Name                 | Docker Image Name                          |
 | ------------------------------- | --------------------------------------------- |
 |  Nginx  | nginx |
-| Customized Nginx  | stacksimplify/mynginx_image1 |
-| Simple SpringBoot HelloWorld | stacksimplify / dockerintro-springboot-helloworld-rest-api |
+| Customized Nginx  | shivendra012y/mynginx_image1 |
+| Simple SpringBoot HelloWorld | shivendra012 / dockerintro-springboot-helloworld-rest-api |
